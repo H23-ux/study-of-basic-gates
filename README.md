@@ -100,12 +100,13 @@ endmodule
 
 **RTL realization** 
 
-![image](https://github.com/user-attachments/assets/8e3a4c5b-3e2f-4633-93cc-8a19efe5c7e8)
+![image](https://github.com/user-attachments/assets/d851cc64-1ff5-4389-b0af-0b05846b74af)
 
 
 **Output**
 
-![image](https://github.com/user-attachments/assets/fb545dc2-3447-4651-8f8b-1c2cb2fadb3a)
+![image](https://github.com/user-attachments/assets/5f3435be-4eb6-4551-ab15-87ff23f309c8)
+
 
 
 **Result:**
